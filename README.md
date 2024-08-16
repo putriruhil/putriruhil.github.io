@@ -4,7 +4,7 @@
 
 * Food
   1. Apple
-  ~~2. Oranges~~
+  2. ~~Oranges~~
 
 * Clothes
   - [ ]  *Black* Top
