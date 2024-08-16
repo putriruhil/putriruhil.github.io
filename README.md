@@ -3,13 +3,18 @@
 **TO DO LIST**
 
 * Food
-  1. Apple 
+  1. Apple
+  ~~2. Oranges~~
 
 * Clothes
   - [ ]  *Black* Top
+  - [x]  *Denim Skirt
  
-
-- [x] this is a complete item
-- [ ] this is an incomplete item
+* Chores
+| Cat           | Laundry       |
+| ------------- |:-------------:|
+| Feed          | Wash          |
+| Groom         | Dry           |
+| Brush Teeth   | Fold          |
 
 ---------
