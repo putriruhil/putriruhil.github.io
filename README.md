@@ -2,10 +2,10 @@
 ---------
 **TO DO LIST**
 
-..* Food
+* Food
   1. Apple 
 
-..* Clothes
+* Clothes
   1. *Black* Top
 
 ---------
