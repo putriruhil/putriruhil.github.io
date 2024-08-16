@@ -12,12 +12,6 @@
  
 
 * Chores
-Cat | Laundry 
---- | --- 
-Feed | Wash 
-Groom | Dry 
-Brush Teeth | Fold 
-
 | Cat  | Laundry |
 | ------------- | ------------- |
 | Feed  | Wash  |
