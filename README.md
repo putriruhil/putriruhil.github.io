@@ -12,6 +12,7 @@
  
 
 * Chores
+  
 | Cat  | Laundry |
 | ------------- | ------------- |
 | Feed  | Wash  |
